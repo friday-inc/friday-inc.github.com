@@ -1,0 +1,7 @@
+markdown: rdiscount
+pygments: true
+permalinks: /:year/:month/:day/:title
+paginate: 5
+title: Friday-Inc.
+author: Zoltan Dezso
+

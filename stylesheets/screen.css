@@ -1,0 +1,8 @@
+html {background-color: #eee;}
+body{margin:auto; width: 600px;}
+#navigation {text-align: center; width: 600px;}
+#navigation ul { list-style: none; margin:0; padding:0; -webkit-padding-start: 0px; -webkit-margin-before: 0; -webkit-margin-after: 0; }
+#navigation ul > li { list-style: none; display: inline; }
+#navigation ul > li > a { font-weight: bold; font-size: 0.7em; color: #8b0000; text-shadow: #fff 1px 1px 1px;  }
+#footer {width: 600px; font-size: 0.6em; color: #666; text-shadow: #fff 1px 1px 1px; text-align: center;}
+
